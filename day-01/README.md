@@ -2,7 +2,7 @@
 
 ## Schedule
 
-This is just a suggested [schedule](https://docs.google.com/document/d/1YoLu5_kmjABDJ5cfwFDOs_aZBi7YKJA90Ic81VbiXHo/edit). Improv shouldn't take up a full half hour and lunch can be cut down if more time is needed for lectures/labs/projects.
+This is a suggested [schedule](https://docs.google.com/document/d/1YoLu5_kmjABDJ5cfwFDOs_aZBi7YKJA90Ic81VbiXHo/edit). 
 
 <table>
     <tr>
