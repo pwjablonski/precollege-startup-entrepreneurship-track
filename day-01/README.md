@@ -90,7 +90,7 @@ This is just a suggested schedule. Improv shouldn't take up a full half hour and
     </tr>
 </table>
 ### Day One Teachers Guide
-    <a href="https://docs.google.com/document/d/12f3R2i_XnbtAjCDZ3dL8GKcUl1wwn7cFDKR-68I3hTI/edit?usp=sharing"> Teachers Guide File</a>
+    [Day 1 Guide]("https://docs.google.com/document/d/12f3R2i_XnbtAjCDZ3dL8GKcUl1wwn7cFDKR-68I3hTI/edit?usp=sharing") 
 
 ###Before Class One:
 + Find out how many kids need computers / set up computers
