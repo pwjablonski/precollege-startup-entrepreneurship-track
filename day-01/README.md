@@ -15,7 +15,7 @@ This is just a suggested [schedule](https://docs.google.com/document/d/1YoLu5_km
         <td>Introduction</td>
         <td>
             Inspiring Introduction to Course: 9-9:10<br>
-            tudent Introductions: 9:10-9:45
+            Student Introductions: 9:10-9:45
         </td>
     </tr>
     <tr>
@@ -90,7 +90,7 @@ This is just a suggested [schedule](https://docs.google.com/document/d/1YoLu5_km
 ## Day One Teachers Guide
 
 ###Resources
-[Day One Guide](https://docs.google.com/document/d/12f3R2i_XnbtAjCDZ3dL8GKcUl1wwn7cFDKR-68I3hTI/edit)
+[Day One Guide](https://docs.google.com/document/d/12f3R2i_XnbtAjCDZ3dL8GKcUl1wwn7cFDKR-68I3hTI/edit)<br>
 [Day One Presentation](https://docs.google.com/presentation/d/18BpahIb-A_y4gWmgJbQLVXwIA-dL8hObC5M2z5pZCFo/edit)
 
 ###Before Class One:
