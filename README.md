@@ -1,29 +1,33 @@
-# PRECOLLEGE STARTUP ENTREPRENEURSHIP COURSE OUTLINE
-Overview
+# HS STARTUP ENTREPRENEURSHIP COURSE OUTLINE
 
-This repository will act as a course guide/masterplan for Startup Entrepreneurship. Here you'll find:
+##Overview
 
-A course outline listing days and topics
-A guide for each day listing with schedule for deck, lectures, and labs
-A full lecture script as well as abridged notes for each lecture
-Course Outline
+This repository will act as a course guide/masterplan for Startup Entrepreneurship. 
+Here you'll find:
 
-Day 1 - 
++A course outline listing days and topics
++A guide for each day listing with schedule for deck, lectures, and labs
++A full lecture script as well as abridged notes for each lecture
 
-Day 2 - 
+##Course Outline
 
-Day 3 - 
+###[Day 1 - ](day-01)
 
-Day 4 - 
+###[Day 2 - ](day-02)
 
-Day 5 - 
+###[Day 3 - ](day-03)
 
-Day 6 - 
+###[Day 4 - ](day-04)
 
-Day 7 - 
+###[Day 5 - ](day-05)
 
-Day 8 - 
+###[Day 6 - ](day-06)
 
-Day 9 - 
+###[Day 7 - ](day-07)
 
-Day 10 - 
+###[Day 8 - ](day-08)
+
+###[Day 9 - ](day-09)
+
+###[Day 10 - ](day-10)
+
