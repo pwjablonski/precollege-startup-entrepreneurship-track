@@ -14,19 +14,17 @@ This is just a suggested [schedule](https://docs.google.com/document/d/1YoLu5_km
         <td>9:00-9:45</td>
         <td>Introduction</td>
         <td>
-            <a href="#" > Inspiring Introduction to Course: 9-9:10</a> 
-            <br>
-            <a href="#">Student Introductions: 9:10-9:45</a>
+            Inspiring Introduction to Course: 9-9:10<br>
+            tudent Introductions: 9:10-9:45
         </td>
     </tr>
     <tr>
         <td>9:45-11:30</td>
         <td>Design Thinking</td>
         <td>
-            <a href="#">The Wallet Project: students experience a full design cycle: 9:45-11:15</a>
-            <br>
-           <a href="#"> Break: 11:15-11:20 </a>
-           <a href="#"> Doug Dietz & the MRI: real world example of design thinking: 11:20-11:30</a>
+            The Wallet Project: students experience a full design cycle: 9:45-11:15<br>
+            Break: 11:15-11:20<br>
+            Doug Dietz & the MRI: real world example of design thinking: 11:20-11:30
         </td>
     </tr>
     <tr>
