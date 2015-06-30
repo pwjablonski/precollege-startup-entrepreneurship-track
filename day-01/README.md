@@ -90,7 +90,7 @@ This is just a suggested [schedule](https://docs.google.com/document/d/1YoLu5_km
     </tr>
 </table>
 ## Day One Teachers Guide
-[schedule](https://docs.google.com/document/d/1YoLu5_kmjABDJ5cfwFDOs_aZBi7YKJA90Ic81VbiXHo/edit)
+[Day One Guide](https://docs.google.com/document/d/12f3R2i_XnbtAjCDZ3dL8GKcUl1wwn7cFDKR-68I3hTI/edit)
 
 ###Before Class One:
 + Find out how many kids need computers / set up computers
