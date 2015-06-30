@@ -2,7 +2,7 @@
 
 ## Schedule
 
-This is just a suggested schedule. Improv shouldn't take up a full half hour and lunch can be cut down if more time is needed for lectures/labs/projects.
+This is just a suggested [schedule](https://docs.google.com/document/d/1YoLu5_kmjABDJ5cfwFDOs_aZBi7YKJA90Ic81VbiXHo/edit). Improv shouldn't take up a full half hour and lunch can be cut down if more time is needed for lectures/labs/projects.
 
 <table>
     <tr>
@@ -89,7 +89,7 @@ This is just a suggested schedule. Improv shouldn't take up a full half hour and
         </td>
     </tr>
 </table>
-### Day One Teachers Guide
+## Day One Teachers Guide
     [Day 1 Guide](https://docs.google.com/document/d/12f3R2i_XnbtAjCDZ3dL8GKcUl1wwn7cFDKR-68I3hTI) 
 
 ###Before Class One:
