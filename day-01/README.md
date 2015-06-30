@@ -11,7 +11,7 @@ This is just a suggested schedule. Improv shouldn't take up a full half hour and
         <td>Resources</td>
     </tr>
     <tr>
-        <td>9:00 - 9:45</td>
+        <td>9:00-9:45</td>
         <td>Introduction</td>
         <td>
             <a href="#" > Inspiring Introduction to Course: 9-9:10</a> 
@@ -20,7 +20,7 @@ This is just a suggested schedule. Improv shouldn't take up a full half hour and
         </td>
     </tr>
     <tr>
-        <td>9:45 - 11:30</td>
+        <td>9:45-11:30</td>
         <td>Design Thinking</td>
         <td>
             <a href="#">The Wallet Project: students experience a full design cycle: 9:45-11:15</a>
@@ -30,7 +30,7 @@ This is just a suggested schedule. Improv shouldn't take up a full half hour and
         </td>
     </tr>
     <tr>
-        <td>11:30 - 11:50</td>
+        <td>11:30-11:50</td>
         <td>Class Vision, Expectations & Connection to Design Thinking</td>
         <td>
             <p> What is going to happen over the next two weeks?</p>
@@ -39,26 +39,26 @@ This is just a suggested schedule. Improv shouldn't take up a full half hour and
         </td>
     </tr>
     <tr>
-        <td>11:50 - 12:50</td>
+        <td>11:50-12:50</td>
         <td>Lunch</td>
         <td>
             <p>Yummmm!</p>
         </td>
     </tr>
     <tr>
-        <td>12:50 - 1:10</td>
+        <td>12:50-1:10</td>
         <td>How Constraints Fuel Creativity</td>
         <td>
-           <p>20 Circles - 10 minutes (if time available)</p>
+          <p>20 Circles - 10 minutes (if time available)</p>
           <p>Category, Category, Die! - 10 minutes</p>
           <p>Introduction of Course Constraints - 15 minutes</p>
         </td>
     </tr>
     <tr>
-        <td>1:10 - 2:35</td>
+        <td>1:10-2:35</td>
         <td>The Art of Brainstorming</td>
         <td>
-            The Power of Empathy: Cleveland Clinic video: 1:10-1:20
+            <p>The Power of Empathy: Cleveland Clinic video: 1:10-1:20</p>
             Brainstorming Rules: 1:20-1:25
             Brainstorm #1: What are teenagers going through? 1:25-1:40
             Share and Synthesize Results of Brainstorm: 1:40-2:00
@@ -69,7 +69,7 @@ This is just a suggested schedule. Improv shouldn't take up a full half hour and
         </td>
     </tr>
     <tr>
-        <td>2:35 - 2:50</td>
+        <td>2:35-2:50</td>
         <td>Final Thoughts</td>
         <td>
             Wrap Deck
