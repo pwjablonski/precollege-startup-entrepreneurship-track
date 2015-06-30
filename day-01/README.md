@@ -33,16 +33,16 @@ This is just a suggested schedule. Improv shouldn't take up a full half hour and
         <td>11:30-11:50</td>
         <td>Class Vision, Expectations & Connection to Design Thinking</td>
         <td>
-            <p> What is going to happen over the next two weeks?</p>
-            <p>How is this connected to the d.School design process? </p>
-            <p>What are the class rules and rituals</p>
+            What is going to happen over the next two weeks?<br>
+            How is this connected to the d.School design process?<br>
+            What are the class rules and rituals
         </td>
     </tr>
     <tr>
         <td>11:50-12:50</td>
         <td>Lunch</td>
         <td>
-            <p>Yummmm!</p>
+            Yummmm!
         </td>
     </tr>
     <tr>
