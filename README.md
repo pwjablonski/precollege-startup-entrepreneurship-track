@@ -5,9 +5,9 @@
 This repository will act as a course guide/masterplan for Startup Entrepreneurship. 
 Here you'll find:
 
-+A course outline listing days and topics
-+A guide for each day listing with schedule for deck, lectures, and labs
-+A full lecture script as well as abridged notes for each lecture
++ A course outline listing days and topics
++ A guide for each day listing with schedule for deck, lectures, and labs
++ A full lecture script as well as abridged notes for each lecture
 
 ##Course Outline
 
