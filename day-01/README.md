@@ -75,19 +75,26 @@ This is just a suggested schedule. Improv shouldn't take up a full half hour and
            Tell students they are awesome
         </td>
     </tr>
+    <tr>
+        <td>2:50-3:00</td>
+        <td>Wrap Deck</td>
+        <td>
+           Learnings<br>
+            I learned the five stages of design thinking.<br>
+            I learned how constraints fuel creativity.<br>
+            I learned how to brainstorm.<br>
+        Output<br>
+            I designed a new wallet for a friend.<br>
+            I have ideas for products and services that help make the lives of teenagers better.<br>
+        </td>
+    </tr>
 </table>
-
-##Tips for Day 1
-
-[Tips](https://docs.google.com/a/flatironschool.com/document/d/1q9xnXgAWXJPaBx358NytoHF4yKStTCphlVpFpazGkjM)
+### Day One Teachers Guide
+    <a href="https://docs.google.com/document/d/12f3R2i_XnbtAjCDZ3dL8GKcUl1wwn7cFDKR-68I3hTI/edit?usp=sharing"> Teachers Guide File</a>
 
 ###Before Class One:
 + Find out how many kids need computers / set up computers
-+ Make sure kids are on Shortpath
 + Send Welcome email
-+ Make sure all students have been added to github team (Github team is made automatically when Ironboard batch is created and will have the same name, e.g. after-school-000)
-+ Deploy labs and check them:
-+ Make sure that team repository has been created (something like https://github.com/flatiron-school-ironboard/hs-ruby-assessment-after-school-advanced-000).
 + Make sure you have a credit card to order pizza lunch (Elana can pre-order from Williamsburg Pizza but you should call the morning of class to make sure it is coming)
 
 ###Day Before:
@@ -111,34 +118,4 @@ This is just a suggested schedule. Improv shouldn't take up a full half hour and
 
 
 ##SWBATs
-+ CLI ‐ Understand and explain what terminal is and why we use it.
-+ CLI ‐ Navigate through directories using relative and absolute paths*
-+ CLI ‐ use the cd command to move up and down directories
-+ CLI ‐ Use the ‘ls’ keyword to list items in a directory
-+ CLI ‐ Remove a file and a directory by using ‘rm’ and ‘rm ‐rf’ keywords
-+ CLI ‐ move files and directories using the mv command
-+ GENERAL RUBY ‐ explain that all programs are just lines of text read by a computer
-+ GENERAL RUBY ‐ demonstrate that ruby programs read top to bottom
-+ GENERAL RUBY ‐ differentiate between data and key words
-+ STRINGS ‐ explain what a string is and why it's used
-+ STRINGS ‐ create strings using double quotes
-+ STRINGS concatenate two strings using the +
-+ STRINGS ‐ use common string methods
-+ PUTS ‐ Explain what putsing is and what it's used for
-+ INT ‐ explain what an integer is and why it's used
-+ INT ‐ use common mathematical operations with integers
-+ INT ‐ understand that ruby rounds down when doing math with integers
-+ INT ‐ use typical methods like to_f and to_s to mutate integers
-+ FLT ‐ explain what a float is and why it's used
-+ FLT ‐ understand that math with floats produces floats and math with integers produces integers
-+ FLT ‐ use typical methods like to_i and to_s to mutate float
-+ FLT ‐ use common mathematical operations on floats
-+ STRINGS/VARIABLES ‐ interpolate a variable or a method within a string
-+ VAR ‐ use a variable in place of a piece of data
-+ VAR ‐ assign integers to variables
-+ VAR ‐ assign floats to variables
-+ VAR ‐ reassign the value of a variable
-+ GETS ‐ take in user input using the gets method
-+ VAR ‐ use correct syntax in naming variables
-+ GENERAL RUBY ‐ predict that the effect of text in ruby that is not data or a key word will throw an error
-+ GENERAL RUBY ‐ explain that an error will stop the execution of ruby code
+
