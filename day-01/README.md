@@ -49,37 +49,30 @@ This is just a suggested schedule. Improv shouldn't take up a full half hour and
         <td>12:50-1:10</td>
         <td>How Constraints Fuel Creativity</td>
         <td>
-          <p>20 Circles - 10 minutes (if time available)</p>
-          <p>Category, Category, Die! - 10 minutes</p>
-          <p>Introduction of Course Constraints - 15 minutes</p>
+          20 Circles - 10 minutes (if time available)<br>
+          Category, Category, Die! - 10 minutes<br>
+          Introduction of Course Constraints - 15 minutes<br>
         </td>
     </tr>
     <tr>
         <td>1:10-2:35</td>
         <td>The Art of Brainstorming</td>
         <td>
-            <p>The Power of Empathy: Cleveland Clinic video: 1:10-1:20</p>
-            Brainstorming Rules: 1:20-1:25
-            Brainstorm #1: What are teenagers going through? 1:25-1:40
-            Share and Synthesize Results of Brainstorm: 1:40-2:00
-            Break: 2:00-2:05
-            Research on DoSomething.org: 2:05-2:15 
-            Brainstorm #2: What are your ideas for products or services for teens? 2:15-2:25
-            Share and Synthesize: 2:25-2:35
+            The Power of Empathy: Cleveland Clinic video: 1:10-1:20<br>
+            Brainstorming Rules: 1:20-1:25<br>
+            Brainstorm #1: What are teenagers going through? 1:25-1:40<br>
+            Share and Synthesize Results of Brainstorm: 1:40-2:00<br>
+            Break: 2:00-2:05<br>
+            Research on DoSomething.org: 2:05-2:15 <br>
+            Brainstorm #2: What are your ideas for products or services for teens? 2:15-2:25<br>
+            Share and Synthesize: 2:25-2:35<br>
         </td>
     </tr>
     <tr>
         <td>2:35-2:50</td>
         <td>Final Thoughts</td>
         <td>
-            Wrap Deck
-            Learnings
-              I learned the five stages of design thinking.
-              I learned how constraints fuel creativity.
-              I learned how to brainstorm.
-            Output
-              I designed a new wallet for a friend.
-              I have ideas for products and services that help make the lives of teenagers better.
+           Tell students they are awesome
         </td>
     </tr>
 </table>
