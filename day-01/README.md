@@ -88,7 +88,10 @@ This is just a suggested [schedule](https://docs.google.com/document/d/1YoLu5_km
     </tr>
 </table>
 ## Day One Teachers Guide
+
+###Resources
 [Day One Guide](https://docs.google.com/document/d/12f3R2i_XnbtAjCDZ3dL8GKcUl1wwn7cFDKR-68I3hTI/edit)
+[Day One Presentation](https://docs.google.com/presentation/d/18BpahIb-A_y4gWmgJbQLVXwIA-dL8hObC5M2z5pZCFo/edit)
 
 ###Before Class One:
 + Find out how many kids need computers / set up computers
