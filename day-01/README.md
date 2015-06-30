@@ -14,17 +14,17 @@ This is just a suggested [schedule](https://docs.google.com/document/d/1YoLu5_km
         <td>9:00-9:45</td>
         <td>Introduction</td>
         <td>
-            Inspiring Introduction to Course: 9-9:10<br>
-            Student Introductions: 9:10-9:45
+            Inspiring Introduction to Course<br>
+            Student Introductions:
         </td>
     </tr>
     <tr>
         <td>9:45-11:30</td>
         <td>Design Thinking</td>
         <td>
-            The Wallet Project: students experience a full design cycle: 9:45-11:15<br>
+            The Wallet Project:<br>
             Break: 11:15-11:20<br>
-            Doug Dietz & the MRI: real world example of design thinking: 11:20-11:30
+            Doug Dietz & the MRI:
         </td>
     </tr>
     <tr>
@@ -47,23 +47,23 @@ This is just a suggested [schedule](https://docs.google.com/document/d/1YoLu5_km
         <td>12:50-1:10</td>
         <td>How Constraints Fuel Creativity</td>
         <td>
-          20 Circles - 10 minutes (if time available)<br>
-          Category, Category, Die! - 10 minutes<br>
-          Introduction of Course Constraints - 15 minutes<br>
+          20 Circles<br>
+          Category, Category, Die!<br>
+          Introduction of Course Constraints<br>
         </td>
     </tr>
     <tr>
         <td>1:10-2:35</td>
         <td>The Art of Brainstorming</td>
         <td>
-            The Power of Empathy: Cleveland Clinic video: 1:10-1:20<br>
-            Brainstorming Rules: 1:20-1:25<br>
-            Brainstorm #1: What are teenagers going through? 1:25-1:40<br>
-            Share and Synthesize Results of Brainstorm: 1:40-2:00<br>
-            Break: 2:00-2:05<br>
-            Research on DoSomething.org: 2:05-2:15 <br>
-            Brainstorm #2: What are your ideas for products or services for teens? 2:15-2:25<br>
-            Share and Synthesize: 2:25-2:35<br>
+            The Power of Empathy: Cleveland Clinic video: <br>
+            Brainstorming Rules:<br>
+            Brainstorm #1: What are teenagers going through? <br>
+            Share and Synthesize Results of Brainstorm: <br>
+            Break: <br>
+            Research on DoSomething.org: <br>
+            Brainstorm #2: What are your ideas for products or services for teens?<br>
+            Share and Synthesize:<br>
         </td>
     </tr>
     <tr>
