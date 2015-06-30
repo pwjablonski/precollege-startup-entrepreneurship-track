@@ -1,2 +1,29 @@
-# precollege-startup-entrepreneurship-track
-Startup Entrepreneurship Curriculum
+# PRECOLLEGE STARTUP ENTREPRENEURSHIP COURSE OUTLINE
+Overview
+
+This repository will act as a course guide/masterplan for Startup Entrepreneurship. Here you'll find:
+
+A course outline listing days and topics
+A guide for each day listing with schedule for deck, lectures, and labs
+A full lecture script as well as abridged notes for each lecture
+Course Outline
+
+Day 1 - 
+
+Day 2 - 
+
+Day 3 - 
+
+Day 4 - 
+
+Day 5 - 
+
+Day 6 - 
+
+Day 7 - 
+
+Day 8 - 
+
+Day 9 - 
+
+Day 10 - 
