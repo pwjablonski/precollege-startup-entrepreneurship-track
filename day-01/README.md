@@ -56,13 +56,13 @@ This is just a suggested [schedule](https://docs.google.com/document/d/1YoLu5_km
         <td>1:10-2:35</td>
         <td>The Art of Brainstorming</td>
         <td>
-            The Power of Empathy: Cleveland Clinic video: <br>
+            The Power of Empathy: <br>
             Brainstorming Rules:<br>
-            Brainstorm #1: What are teenagers going through? <br>
+            Brainstorm #1: <br>
             Share and Synthesize Results of Brainstorm: <br>
             Break: <br>
             Research on DoSomething.org: <br>
-            Brainstorm #2: What are your ideas for products or services for teens?<br>
+            Brainstorm #2:<br>
             Share and Synthesize:<br>
         </td>
     </tr>
