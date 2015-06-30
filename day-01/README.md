@@ -77,13 +77,8 @@ This is just a suggested [schedule](https://docs.google.com/document/d/1YoLu5_km
         <td>2:50-3:00</td>
         <td>Wrap Deck</td>
         <td>
-           Learnings<br>
-            I learned the five stages of design thinking.<br>
-            I learned how constraints fuel creativity.<br>
-            I learned how to brainstorm.<br>
-        Output<br>
-            I designed a new wallet for a friend.<br>
-            I have ideas for products and services that help make the lives of teenagers better.<br>
+            Learnings<br>
+            Output
         </td>
     </tr>
 </table>
