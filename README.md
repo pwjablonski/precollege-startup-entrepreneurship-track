@@ -27,7 +27,7 @@ Here you'll find:
 
 ###[Day 8 - How to Pitch](day-08)
 
-###[Day 9 - ](day-09)
+###[Day 9 - In the Field](day-09)
 
-###[Day 10 - ](day-10)
+###[Day 10 - Final Presentation & Party](day-10)
 
