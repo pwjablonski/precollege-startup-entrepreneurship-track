@@ -66,11 +66,11 @@ This is a suggested [schedule](https://docs.google.com/document/d/1L3KqeYZ3FPRQt
         </td>
     </tr>
 </table>
-## Day Three Teachers Guide
+## Day Five Teachers Guide
 
 ###Resources
-[Day Three Guide](https://docs.google.com/document/d/1A4Ntj_l3dwEcc7fgLMqusfCOju55rZ8AsheddQL7lB4/edit)<br>
-[Day Three Presentation](https://docs.google.com/presentation/d/1s_8ARR3cDMxr2pVhWQEq5uRoGXwVu2CbBctYlg2lNw4/edit)
+[Day Five Guide](https://docs.google.com/document/d/1A4Ntj_l3dwEcc7fgLMqusfCOju55rZ8AsheddQL7lB4/edit)<br>
+[Day Five Presentation](https://docs.google.com/presentation/d/1s_8ARR3cDMxr2pVhWQEq5uRoGXwVu2CbBctYlg2lNw4/edit)
 
 ##SWBATs
 
